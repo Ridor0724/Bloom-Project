@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+.signup-btn {
+   background-color: #e64c09 !important;
+   color: white;
+   font-weight: 15px; 
+   border-radius: 20px !important;
+   height: 10px !important;
+}
