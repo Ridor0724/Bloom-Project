@@ -3,6 +3,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+@media (max-width: 768px) {
+    .hero-section .container {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
 .signup-btn {
    display: inline-flex;        
    align-items: center;         
