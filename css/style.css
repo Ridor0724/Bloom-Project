@@ -32,6 +32,9 @@
 h1 span {
 color: #e64c09;
 }
+h2 span {
+    color: #e64c09;
+}
 .getstarted-btn {
   display: inline-flex;        
   align-items: center;       
