@@ -89,4 +89,47 @@ border-radius: 10px !important;
     .hero-section-2 {
         background-color: #f6dacc;
     }
+    
+    .process-item {
+    display: flex;                 /* horizontal layout */
+    align-items: center;           /* vertical centering */
+    gap: 16px;                     /* space between circle & text */
+    margin-bottom: 18px;           /* space between rows */
+}
+
+.process-circle {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;            /* makes it a circle */
+    background-color: #e64c09;     /* exact orange */
+    color: #fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: 600;
+    font-size: 14px;
+    flex-shrink: 0;                /* prevents shrinking */
+}
+
+.process-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+}
+.readmore-btn {
+     display: inline-flex;        
+  align-items: center;       
+  justify-content: center; 
+    color: #e64c09;
+    background-color: white;
+    border-color: #e64c09;
+    margin-left: 25px;
+    height: 30px !important;
+}
+.readmore-btn:hover {
+    background-color: white;
+    color: #e64c09;
+}
 
