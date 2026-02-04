@@ -136,3 +136,52 @@ h3 span {
     color: #e64c09;
 }
 
+/* WRAPPER */
+.footer-wrapper {
+    margin-top: 80px;
+}
+
+/* CTA BAR */
+.footer-cta {
+    background-color: #e64c09;
+    padding: 14px 0;
+}
+
+/* MAIN FOOTER */
+.footer-main {
+    background-color: #fde3d6;
+    position: relative;
+    padding: 50px 0 70px;
+}
+
+/* FOOTER TITLES */
+.footer-title {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+/* BRAND */
+.footer-logo {
+    color: #e64c09;
+    font-size: 20px;
+}
+
+.footer-socials i {
+    margin-right: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* CURVED ORANGE STRIP */
+.footer-wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 16px;
+    background: #e64c09;
+    border-top-left-radius: 100% 20px;
+    border-top-right-radius: 100% 20px;
+}
+
+
