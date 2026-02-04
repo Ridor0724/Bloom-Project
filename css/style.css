@@ -132,4 +132,7 @@ border-radius: 10px !important;
     background-color: white;
     color: #e64c09;
 }
+h3 span {
+    color: #e64c09;
+}
 
