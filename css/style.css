@@ -10,6 +10,14 @@
     }
 }
 
+@media (max-width: 768px) {
+    .hero-section-2 .container {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+
 .signup-btn {
    display: inline-flex;        
    align-items: center;         
