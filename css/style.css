@@ -16,6 +16,13 @@
         text-align: center;
     }
 }
+@media (max-width: 768px) {
+    .hero-section-3 .container {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
 
 
 .signup-btn {
